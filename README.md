@@ -35,19 +35,6 @@ Actively seeking **SDE** and **Data Analyst** roles — open to opportunities!
 
 ---
 
-## 📊 GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gurjeet3010&show_icons=true&theme=default&hide_border=true" height="130" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurjeet3010&layout=compact&theme=default&hide_border=true" height="130" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=gurjeet3010&theme=default&hide_border=true" height="130" />
-</p>
-
----
-
 ## 📬 Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gurjeet-kaur3010)
