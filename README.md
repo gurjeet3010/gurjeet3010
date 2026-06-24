@@ -24,10 +24,10 @@ Actively seeking **SDE** and **Data Analyst** roles — open to opportunities!
 
 ---
 
-## 🚀 Featured projects
-
+## 🚀 Featured Projects
 | Project | Description | Tech |
 |---|---|---|
+| 📷 [DigiCam](https://github.com/gurjeet3010/Digi-Cam) | Retro-inspired browser photobooth with live GPU filters & customizable photo strips | HTML, CSS, JS, WebRTC |
 | 📰 [Fake News Detection](https://github.com/gurjeet3010/FakeNewsDetection) | NLP classifier to detect misinformation in news articles | Python, TF-IDF, Naive Bayes |
 | 👁️ [Real-Time Face Detection](https://github.com/gurjeet3010/facial_detection) | Live webcam face detection with bounding boxes | Python, OpenCV |
 | 🌸 [Evia — Cycle Tracker](https://github.com/gurjeet3010/evia-tracker) | Full-stack wellness app with predictive cycle analytics | TypeScript, React |
